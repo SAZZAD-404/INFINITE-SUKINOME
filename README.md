@@ -1,1 +1,11 @@
 # INFINITE-SUKINOME
+
+cd
+
+rm -rf INFINITE-SUKINOME
+
+git clone https://github.com/SAZZAD-404/INFINITE-SUKINOME.git
+
+cd INFINITE-SUKINOME
+
+python SUKINOME.py
